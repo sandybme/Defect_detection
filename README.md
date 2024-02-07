@@ -8,6 +8,7 @@ cd Defect_detection
 # Install dependencies
 bash setup_env.sh
 pip install -r requirements.txt
+```
 ## Overview
 Train final note book has both training and inference code.
 
