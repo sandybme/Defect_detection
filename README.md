@@ -1,5 +1,13 @@
 # Simple Defect Classification Model - Using Mask
-
+# Overview
+1. Setup Environment
+```bash
+# Clone the repository
+git clone https://github.com/sandybme/Defect_detection.git
+cd Defect_detection
+# Install dependencies
+bash setup_env.sh
+pip install -r requirements.txt
 ## Overview
 Train final note book has both training and inference code.
 
